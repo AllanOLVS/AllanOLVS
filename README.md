@@ -41,7 +41,8 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/AllanOLVS/AllanOLVS/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/AllanOLVS/AllanOLVS/output/github-contribution-grid-snake.svg)
+
 
 
 
