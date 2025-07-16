@@ -1,7 +1,7 @@
 ## Opa! Me chamo Allan Oliveira 
 
 - 💻 Atualmente empreendo no Marketing digital, utilizando programação
-  - Construção de sites/páginas (Front-end) 
+  - Construção de sites/páginas (Front-end), com obejtivo de escalar negócios!
 - 📖 Sou estudante.
   - Cursando ADS (IFBA - Campus Santo Antonio de Jesus e fazendo cursos full-stack fora da faculdade)
 - 📧 Contate-me no email: allan.oliveiraa009@gmail.com 
