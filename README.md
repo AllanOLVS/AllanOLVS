@@ -9,7 +9,7 @@
 <div>
   <a href="https://github.com/AllanOLVS">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AllanOLVS&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanOLVS&layout=compact&langs_count=16&theme=midnight-purple"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanOLVS&layout=compact&langs_count=16&theme=midnight-purple"/>
   </a>
 </div>
 
@@ -41,9 +41,6 @@
   </a>
 </div>
 
-##
-
-![Snake animation](https://raw.githubusercontent.com/AllanOLVS/AllanOLVS/output/github-contribution-grid-snake.svg)
 
 
 
