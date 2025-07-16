@@ -15,8 +15,6 @@
   <img align="center" alt="Allan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 </div>
 
-##
-
 <div>
   <a href="https://github.com/AllanOLVS">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AllanOLVS&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
