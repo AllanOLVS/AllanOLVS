@@ -6,15 +6,6 @@
   - Cursando ADS (IFBA - Campus Santo Antonio de Jesus e fazendo cursos full-stack fora da faculdade)
 - 📧 Contate-me no email: allan.oliveiraa009@gmail.com 
 
-<div>
-  <a href="https://github.com/AllanOLVS">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AllanOLVS&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanOLVS&layout=compact&langs_count=16&theme=midnight-purple"/>
-  </a>
-</div>
-
-##
-
 <div style="display: inline_block">
   <img align="center" alt="Allan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Allan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -23,6 +14,17 @@
   <img align="center" alt="Allan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Allan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 </div>
+
+##
+
+<div>
+  <a href="https://github.com/AllanOLVS">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AllanOLVS&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanOLVS&layout=compact&langs_count=16&theme=midnight-purple"/>
+  </a>
+</div>
+
+
 
 ##
 
