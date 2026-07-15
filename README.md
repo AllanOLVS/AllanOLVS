@@ -69,16 +69,6 @@
 
 ---
 
-### 🚀 Projetos em destaque
-
-> Preencha com seus repositórios — 1 frase de valor por projeto.
-
-- **[Nome do Projeto SaaS](https://github.com/AllanOLVS/SEU_REPO)** — Plataforma SaaS construída na VENYX. *(React · TypeScript · Spring Boot)*
-- **[Solução GovTech](https://github.com/AllanOLVS/SEU_REPO)** — Sistema para transformação digital no setor público. *(Java · Spring Boot · React)*
-- **[Projeto Full-Stack](https://github.com/AllanOLVS/SEU_REPO)** — Descrição curta do que o projeto resolve. *(Stack utilizada)*
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
